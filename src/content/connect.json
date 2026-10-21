@@ -1,19 +1,10 @@
 {
   "heading": "Let's connect.",
   "description": "Looking for collaborations, commissions, or just a chat about the future of computational media.",
-  "email": "studio@tomiabe.com",
+  "email": "tomi@abeart.com",
   "socials": [
-    {
-      "platform": "twitter",
-      "url": "https://x.com/mrtomiabe"
-    },
-    {
-      "platform": "github",
-      "url": "#"
-    },
-    {
-      "platform": "linkedin",
-      "url": "#"
-    }
+    { "platform": "twitter", "url": "#" },
+    { "platform": "github", "url": "#" },
+    { "platform": "linkedin", "url": "#" }
   ]
 }
